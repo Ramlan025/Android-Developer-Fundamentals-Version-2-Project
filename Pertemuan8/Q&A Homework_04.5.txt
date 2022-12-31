@@ -1,0 +1,26 @@
+/*
+* Answers to questions
+*
+* Q1 - Which of the following statements about a RecyclerView is false?
+* A1 - You don't need a layout manager with a RecyclerView to handle the hierarchy and layout of View elements.
+*
+* Q2 - Which of the following is the primary component you need to provide to an adapter a View item and its position within a RecyclerView?
+* A2 - RecyclerView.ViewHolder
+*
+* Q3 - Which interface do you need to implement in order to listen and respond to user clicks in a RecyclerView?
+* A3 - View.onClickListener
+ * */
+
+=====================================================================================
+/*
+* Jawaban atas pertanyaan
+*
+* Q1 - Manakah dari pernyataan berikut tentang RecyclerView yang salah?
+* A1 - Anda tidak memerlukan pengelola tata letak dengan RecyclerView untuk menangani hierarki dan tata letak elemen Tampilan.
+*
+* Q2 - Manakah dari berikut ini yang merupakan komponen utama yang Anda perlukan untuk menyediakan item View ke adaptor dan posisinya dalam RecyclerView?
+* A2 - RecyclerView.ViewHolder
+*
+* Q3 - Antarmuka mana yang perlu Anda terapkan untuk mendengarkan dan merespons klik pengguna di RecyclerView?
+* A3 - Lihat.onClickListener
+ * */

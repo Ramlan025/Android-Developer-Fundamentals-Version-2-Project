@@ -1,0 +1,43 @@
+Answer these questions
+
+Question 1
+What is the name of the layout file for the main activity?
+Answer - activity_main.xml
+
+Question 2
+What is the name of the string resource that specifies the application's name?
+Answer - app_name
+
+Question 3
+Which tool do you use to create a new emulator?
+Answer - AVD Manager
+
+Question 4
+Assume that your app includes this logging statement:
+Log.i("MainActivity", "MainActivity layout is complete");
+You see the statement "MainActivity layout is complete" in the Logcat pane if the Log level menu is set to which of the following? (Hint: multiple answers are OK.)
+Answer - Verbose, Info
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+							#Translate
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Jawab pertanyaan-pertanyaan ini
+
+pertanyaan 1
+Apa nama file layout untuk aktivitas utama?
+Jawaban - activity_main.xml
+
+Pertanyaan 2
+Apa nama sumber daya string yang menentukan nama aplikasi?
+Jawaban - nama_aplikasi
+
+Pertanyaan 3
+Alat apa yang Anda gunakan untuk membuat emulator baru?
+Jawaban - Manajer AVD
+
+pertanyaan 4
+Asumsikan bahwa aplikasi Anda menyertakan pernyataan logging ini:
+Log.i("MainActivity", "Layout MainActivity selesai");
+Anda melihat pernyataan "Tata letak MainActivity selesai" di panel Logcat jika menu level Log diatur ke mana dari berikut ini? (Petunjuk: beberapa jawaban boleh saja.)
+Jawaban - Verbose, Info

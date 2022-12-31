@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DemosSpiner</string>
+    <string name="negara_peserta_fifa_world_cup_2022">Negara Peserta FIFA World Cup 2022</string>
+
+    <string-array name="labels_array">
+        <item>Qatar</item>
+        <item>Belgia</item>
+        <item>England</item>
+        <item>Jerman</item>
+        <item>Portugal</item>
+        <item>Spain</item>
+        <item>Australia</item>
+        <item>Jepang</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Croatia</item>
+        <item>Ecuador</item>
+        <item>Senegal</item>
+        <item>Netherlands</item>
+        <item>Irian</item>
+        <item>USA</item>
+        <item>Wales</item>
+        <item>Saudi Arabia</item>
+        <item>Mexico</item>
+        <item>France</item>
+        <item>Denmark</item>
+        <item>Germany</item>
+        <item>Costa Rica</item>
+        <item>Belgium</item>
+        <item>Canada</item>
+        <item>Morocco</item>
+        <item>Serbia</item>
+        <item>Switzerland</item>
+        <item>Cameroon</item>
+        <item></item>
+    </string-array>
+
+    <string name="mi_breakfast_messege">Saya sedang makan pagi</string>
+    <string name="mi_lunch_messege">Saya sedang makan siang</string>
+    <string name="mi_diner_messege">Saya sedang makan malam</string>
+    <string name="mi_meeting_messege">Saya sedang meeting</string>
+    <string name="mi_entertiment_messege">Saya seorang entertiment</string>
+</resources>

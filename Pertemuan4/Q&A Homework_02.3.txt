@@ -1,0 +1,21 @@
+/*
+* Answers to questions from section 2.3
+*
+* Q1 - Which constructor method do you use to create an implicit intent to launch a camera app?
+* A1 - new Intent(String action)
+*
+* Q2 - Which intent action do you use to request a camera app?
+* A2 - MediaStore.ACTION_IMAGE_CAPTURE
+* */
+
+=======================================
+
+/*
+* Jawaban atas pertanyaan dari bagian 2.3
+*
+* Q1 - Metode konstruktor mana yang Anda gunakan untuk membuat maksud implisit untuk meluncurkan aplikasi kamera?
+* A1 - Intent baru (Tindakan string)
+*
+* Q2 - Tindakan maksud apa yang Anda gunakan untuk meminta aplikasi kamera?
+* A2 - MediaStore.ACTION_IMAGE_CAPTURE
+* */

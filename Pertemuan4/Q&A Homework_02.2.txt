@@ -1,0 +1,46 @@
+/*
+ * Answers to questions from section 2.2
+ *
+ * Q1 - When you rotate the device (before you implement onSaveInstanceState()), the counter is reset to 0 but the contents of the edit text is preserved. Why?
+ * A1 - system destroys the activity when configuration change occurs. The onCreate, onStart and onResume methods are called all over again.
+ *
+ * Q2 -What Activity lifecycle methods are called when a device-configuration change (such as rotation) occurs?
+ * A2 - When config change occurs the Android OS shuts down the activity (calling onPause(), onStop() and onDestroy()) and starts the activity all over again (onCreate(), onStart() and onResume())
+ *
+ * Q3 - When in the Activity lifecycle is onSaveInstanceState() called?
+ * A3 - This method is called before onStop()
+ *
+ * Q4 - Which is the correct method signature for onSaveInstanceState()?
+ * A4 - void onSaveInstanceState(Bundle outState) and void onSaveInstanceState(Bundle outState, PersistableBundle outPersistentState)
+ *
+ * Q5 - What is the difference between restoring your activity state in onCreate() versus in onRestoreInstanceState()?
+ * A5 - onRestoreInstanceState() can be used over onCreate() just for convenience after all the initialization or to allow subclasses to decide whether to use your default implementation (answer from Stackoverflow post : https://stackoverflow.com/questions/36408776/using-oncreate-vs-onrestoreinstancestate)
+ *
+ * Q6 - If you quit and restart your app, what happens to the Activity state?
+ * A6 - Activity gets destroyed when quitting and is created again when restarted.
+ *
+ * */
+
+==========================================================================
+/*
+ * Jawaban atas pertanyaan dari bagian 2.2
+ *
+ * Q1 - Saat Anda memutar perangkat (sebelum Anda mengimplementasikan onSaveInstanceState()), penghitung diatur ulang ke 0 tetapi konten teks edit dipertahankan. Mengapa?
+ * A1 - sistem menghancurkan aktivitas saat terjadi perubahan konfigurasi. Metode onCreate, onStart dan onResume dipanggil lagi.
+ *
+ * Q2 -Metode siklus hidup Aktivitas apa yang dipanggil saat terjadi perubahan konfigurasi perangkat (seperti rotasi)?
+ * A2 - Saat terjadi perubahan konfigurasi, OS Android mematikan aktivitas (memanggil onPause(), onStop() dan onDestroy()) dan memulai aktivitas dari awal lagi (onCreate(), onStart() dan onResume())
+ *
+ * Q3 - Kapan dalam siklus hidup Aktivitas onSaveInstanceState() dipanggil?
+ * A3 - Metode ini dipanggil sebelum onStop()
+ *
+ * Q4 - Manakah tanda tangan metode yang benar untuk onSaveInstanceState()?
+ * A4 - batal onSaveInstanceState(Bundle outState) dan batal onSaveInstanceState(Bundle outState, PersistableBundle outPersistentState)
+ *
+ * Q5 - Apa perbedaan antara memulihkan status aktivitas Anda di onCreate() versus di onRestoreInstanceState()?
+ * A5 - onRestoreInstanceState() dapat digunakan di atas onCreate() hanya untuk kenyamanan setelah semua inisialisasi atau untuk memungkinkan subkelas memutuskan apakah akan menggunakan implementasi default Anda (jawaban dari posting Stackoverflow: https://stackoverflow.com/questions/36408776/ menggunakan-oncreate-vs-onrestoreinstancestate)
+ *
+ * Q6 - Jika Anda keluar dan memulai ulang aplikasi, apa yang terjadi pada status Aktivitas?
+ * A6 - Aktivitas dihancurkan saat berhenti dan dibuat lagi saat dimulai ulang.
+ *
+ * */

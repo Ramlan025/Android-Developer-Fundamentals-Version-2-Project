@@ -1,0 +1,15 @@
+/*
+ * Answers to questions
+ *
+ * Q1 - What is the name of the file in which you create options menu items?
+ * A1 - menu_main.xml
+ *
+ * Q2 - Which method is called when an options menu item is clicked?
+ * A2 - onOptionsItemSelected(MenuItem item)
+ *
+ * Q3 - Which of the following statements sets the title for an alert dialog?
+ * A3 - myAlertBuilder.setTitle("Alert");
+ *
+ * Q4 - Where do you create a DialogFragment for a date picker?
+ * A4 - In the onCreateDialog() method in the extension of DialogFragment.
+ *

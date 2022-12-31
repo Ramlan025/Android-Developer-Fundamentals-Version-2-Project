@@ -1,0 +1,43 @@
+/*
+* Answers to questions from Homework section 1.2A, B
+*
+* Q1 - What are the layout constraint attributes on the Zero button to position it vertically equal distance between the other two buttons?
+* A1 - app:layout_constraintBottom_toTopOf="@+id/button_count" and app:layout_constraintTop_toBottomOf="@+id/button_toast"
+*
+* Q2 - What is the layout constraint attribute on the Zero button to position it horizontally in alignment with the other two buttons?
+* A2 - app:layout_constraintStart_toEndOf="@+id/button_count" and app:layout_constraintEnd_toStartOf="@id/button_toast"
+*
+* Q3 - Which of the following operations can you perform to include the Zero button in the xlarge (tablet) and land (landscape) layouts that have already been created?
+* A3 - Either operation works
+*
+* Q4 - What is the correct signature for a method used as the value of the android:onClick XML attribute?
+* A4 - public void callMethod(View view)
+*
+* Q5 - The click handler for the Count button starts with the following method signature:
+        public void countUp(View view)
+        Which of the following techniques is more efficient to use within this handler to change the button's background color?
+* A5 - Use the view parameter that is passed to the click handler with setBackgroundColor().
+* */
+
+
+==================================================================================================
+/*
+* Jawaban atas pertanyaan dari PR bagian 1.2A, B
+*
+* Q1 - Apa atribut batasan tata letak pada tombol Nol untuk memposisikannya secara vertikal dengan jarak yang sama antara dua tombol lainnya?
+* A1 - aplikasi:layout_constraintBottom_toTopOf="@+id/button_count" dan aplikasi:layout_constraintTop_toBottomOf="@+id/button_toast"
+*
+* Q2 - Apa atribut batasan tata letak pada tombol Nol untuk memposisikannya secara horizontal sejajar dengan dua tombol lainnya?
+* A2 - aplikasi:layout_constraintStart_toEndOf="@+id/button_count" dan aplikasi:layout_constraintEnd_toStartOf="@id/button_toast"
+*
+* Q3 - Manakah dari operasi berikut yang dapat Anda lakukan untuk menyertakan tombol Nol di tata letak xlarge (tablet) dan land (lanskap) yang telah dibuat?
+* A3 - Salah satu operasi berfungsi
+*
+* Q4 - Apa tanda tangan yang benar untuk metode yang digunakan sebagai nilai atribut XML android:onClick?
+* A4 - metode panggilan batal publik (Tampilan tampilan)
+*
+* Q5 - Pengendali klik untuk tombol Hitung dimulai dengan tanda tangan metode berikut:
+        penghitungan kekosongan publik (Tampilan tampilan)
+        Manakah dari teknik berikut yang lebih efisien untuk digunakan dalam pengendali ini untuk mengubah warna latar belakang tombol?
+* A5 - Gunakan parameter tampilan yang diteruskan ke pengendali klik dengan setBackgroundColor().
+* */

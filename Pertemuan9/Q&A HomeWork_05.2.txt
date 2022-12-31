@@ -1,0 +1,12 @@
+/*
+* Answers to questions
+*
+* Q1 - Which color attribute in your style defines the color of the status bar above the app bar?
+* A1 - colorPrimaryDark
+*
+* Q2 - Which support library does the FloatingActionButton belong to?
+* A2 - Design Support Library
+*
+* Q3 - In the Material Design color palette, which shade of a color should you use as the primary color for your brand in your app?
+* A3 - Any color shade labeled 500
+ * */

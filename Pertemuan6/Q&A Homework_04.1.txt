@@ -1,0 +1,28 @@
+*
+* Questions and answers
+*
+* Q1 - How do you add images to an Android Studio project?
+* A1 - Copy the image files into your project's drawable folder.
+*
+* Q2 - How do you make an ImageView clickable like a simple Button?
+* A2 - Add the android:onClick attribute to the ImageView in the layout and use it to call the click handler in the Activity
+*
+* Q3 - Which rule applies to a click handler called from the attribute in the layout?
+* A3 - The click handler method must be public, return void, and define a View as its only parameter
+* 
+* */
+
+======================================
+*
+* Pertanyaan dan jawaban
+*
+* T1 - Bagaimana Anda menambahkan gambar ke proyek Android Studio?
+* A1 - Salin file gambar ke folder drawable proyek Anda.
+*
+* T2 - Bagaimana Anda membuat ImageView dapat diklik seperti Tombol sederhana?
+* A2 - Tambahkan atribut android:onClick ke ImageView di layout dan gunakan untuk memanggil penangan klik di Aktivitas
+*
+* T3 - Aturan mana yang berlaku untuk penangan klik yang dipanggil dari atribut di tata letak?
+* A3 - Metode penangan klik harus bersifat publik, mengembalikan batal, dan menetapkan Tampilan sebagai satu-satunya parameternya
+*
+* */

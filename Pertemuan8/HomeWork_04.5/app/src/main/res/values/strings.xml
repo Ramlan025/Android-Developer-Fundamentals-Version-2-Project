@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">HomeWork_04.5</string>
+    <string name="recipes">Recipes</string>
+    <string name="label">Recycle View</string>
+    <string name="ChocolateMintBars"> <b>Receip This : Chocolate Mint Bars</b>
+        \n\n
+        1/2 cup butter\n
+        1 bag (10 oz) mint-flavored semisweet chocolate chips (1 2/3 cups)\n
+        2 cups chocolate wafer cookie crumbs\n
+        1/4 cup butter, softened\n
+        1 tablespoon milk\n
+
+        \n\n
+        1. Lightly grease 9-inch square pan with shortening or cooking spray. \n
+        In 2-quart saucepan, melt 1/2 cup butter and 1/4 cup of the chocolate chips over low heat, \n
+        stirring constantly. Remove from heat. Stir in cookie crumbs until well mixed;
+        \n press evenly in pan. Refrigerate until firm, about 10 minutes.\n
+        2. Meanwhile, in small bowl, beat 1/4 cup butter, the milk, peppermint extract,\n
+        vanilla and food color with electric mixer on medium speed until well mixed. \n
+        On low speed, gradually beat in powdered sugar until smooth.\n
+        3. Spread peppermint mixture evenly over crumb mixture. In 1-quart saucepan, \n
+        melt remaining chocolate chips and 1/3 cup butter over low heat, stirring constantly; \n
+        spread evenly over peppermint mixture. Refrigerate until chocolate is set, 10 to 15 minutes. \n
+        For bars, cut into 5 rows by 5 rows.\n
+    </string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, eu cum velit elitr, antiopam similique ut est. No reque latine fuisset sea.
+        Sit homero splendide honestatis ut, ex purto persequeris qui. Eu veri homero numquam nec, eos sonet aliquid et.
+        Ea purto suavitate contentiones eam, ancillae pericula sententiae eos ad, utinam viderer vis ex. Ignota indoctum ocurreret te vix, commodo pericula adolescens ea sit.
+        Ut usu cetero latine. Percipitur assueverit vix at. Mea dolor erroribus vituperata eu. Ad sea quas copiosae imperdiet, justo minim tantas quo in.
+        Et prima laboramus dissentias eos, summo latine phaedrum ei has. Ei autem ignota erroribus eam, mentitum interpretaris mel ei. Mei ut stet justo indoctum, pro nostro pericula cu.
+        Modus fastidii reprimique et vel, amet tation postulant ne quo, at his sale voluptaria. An est suscipit scaevola. Sed pericula contentiones ex, te nostro fuisset assentior nec.
+        Principes percipitur ut vis, eu tempor civibus mei. Graeci pertinacia interpretaris vim ad, summo inermis ut vix. Saepe altera moderatius cum no. Officiis recusabo facilisis ad qui, his latine constituto ad.
+        In mea volumus efficiendi. Usu fierent iracundia no, tantas primis ex cum. Prima consetetur at qui, cu euripidis argumentum nec, te mei aliquip civibus delicatissimi. Vel deleniti vulputate tincidunt id, ubique putant option ea eum.
+        No velit elitr argumentum per, nostrum appareat deserunt no vel.
+
+       <b> Lorem ipsum dolor sit amet, </b> eu cum velit elitr, antiopam similique ut est. No reque latine fuisset sea.
+        Sit homero splendide honestatis ut, ex purto persequeris qui. Eu veri homero numquam nec, eos sonet aliquid et.
+        Ea purto suavitate contentiones eam, ancillae pericula sententiae eos ad, utinam viderer vis ex. Ignota indoctum ocurreret te vix, commodo pericula adolescens ea sit.
+        Ut usu cetero latine. Percipitur assueverit vix at. Mea dolor erroribus vituperata eu. Ad sea quas copiosae imperdiet, justo minim tantas quo in.
+        Et prima laboramus dissentias eos, summo latine phaedrum ei has. Ei autem ignota erroribus eam, mentitum interpretaris mel ei. Mei ut stet justo indoctum, pro nostro pericula cu.
+        Modus fastidii reprimique et vel, amet tation postulant ne quo, at his sale voluptaria. An est suscipit scaevola. Sed pericula contentiones ex, te nostro fuisset assentior nec.
+        Principes percipitur ut vis, eu tempor civibus mei. Graeci pertinacia interpretaris vim ad, summo inermis ut vix. Saepe altera moderatius cum no. Officiis recusabo facilisis ad qui, his latine constituto ad.
+        In mea volumus efficiendi. Usu fierent iracundia no, tantas primis ex cum. Prima consetetur at qui, cu euripidis argumentum nec, te mei aliquip civibus delicatissimi. Vel deleniti vulputate tincidunt id, ubique putant option ea eum.
+        No velit elitr argumentum per, nostrum appareat deserunt no vel
+    </string>
+
+    <string name="BlueberryCupcakes">Receip This : BlueberryCupcakes</string>
+    <string name="FudgeWalnutBrownies">Receip This : FudgeWalnutBrownies</string>
+    <string name="BlueberryPeachCobbler">Receip This : BlueberryPeachCobbler</string>
+    <string name="TexasSheetCake">Receip This : TexasSheetCake</string>
+    <string name="EspressoCrinkles">Receip This : EspressoCrinkles</string>
+    <string name="ChocolateCherryCookies">Receip This : ChocolateCherryCookies</string>
+    <string name="VanillaCheesecake">Receip This :VanillaCheesecake</string>
+    <string name="Tiramisu">Receip This : Tiramisu</string>
+    <string name="CarrotCake">Receip This : CarrotCake </string>
+    <string name="BlueberryIceCream">Receip This : BlueberryIceCream</string>
+</resources>

@@ -1,0 +1,21 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:fragment="id.ac.poliban.mi.ramlan.droidcafewithsettinghw_092.SettingsActivity$GeneralFragment"
+        app:icon="@drawable/general_info"
+        app:key="general_header"
+        app:title="@string/general_header" />
+
+    <Preference
+        app:fragment="id.ac.poliban.mi.ramlan.droidcafewithsettinghw_092.SettingsActivity$MessagesFragment"
+        app:icon="@drawable/messages"
+        app:key="notification_header"
+        app:title="@string/notification_header" />
+
+    <Preference
+        app:fragment="id.ac.poliban.mi.ramlan.droidcafewithsettinghw_092.SettingsActivity$SyncFragment"
+        app:icon="@drawable/sync"
+        app:key="sync_header"
+        app:title="@string/sync_header" />
+
+</androidx.preference.PreferenceScreen>

@@ -1,0 +1,26 @@
+/*
+ *Answers to questions
+ *
+ * Q1 - Which template provides an Activity with an options menu and the v7 appcompat support library Toolbar as the app bar?
+ * A1 - Basic Activity template
+ *
+ * Q2 - Which dependency do you need in order to use a TabLayout?
+ * A2 - com.android.support:design
+ *
+ * Q3 - Where do you define each child Activity and parent Activity to provide Up navigation?
+ * A3 - To provide the Up button for a child screen Activity, declare the parent Activity in the child Activity section of the AndroidManifest.xml file.
+ */
+
+======================================================
+/*
+ *Jawaban untuk pertanyaan
+ *
+ * Q1 - Template mana yang menyediakan Aktivitas dengan menu opsi dan bilah alat pustaka dukungan appcompat v7 sebagai bilah aplikasi?
+ * A1 - Template Aktivitas Dasar
+ *
+ * Q2 - Ketergantungan mana yang Anda perlukan untuk menggunakan TabLayout?
+ * A2 - com.android.support:design
+ *
+ * Q3 - Di mana Anda menentukan setiap Aktivitas anak dan Aktivitas induk untuk menyediakan navigasi Naik?
+ * A3 - Untuk menyediakan tombol Naik untuk Aktivitas layar anak, deklarasikan Aktivitas induk di bagian Aktivitas anak dari file AndroidManifest.xml.
+ */

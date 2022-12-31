@@ -1,0 +1,12 @@
+/*//
+ * Answers to questions
+ *
+ * Q1 - Which resource qualifier is used most frequently to select for tablets?
+ * A1 - Smallest screen width
+ *
+ * Q2 - Which folder would hold the strings.xml file for translation into French for Canada?
+ * A2 - res/values-fr-rCA/
+ *
+ * Q3 - Which folder is for XML files that contain strings, integers, and colors?
+ * A3 - res/values
+ //*/

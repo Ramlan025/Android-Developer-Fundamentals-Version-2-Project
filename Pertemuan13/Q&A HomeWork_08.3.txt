@@ -1,0 +1,6 @@
+/*
+ * Answer to question
+ *
+ * Q1 - What class do you use if you want features like the ones provided by JobScheduler, but you want the features to work for devices running API level 20 and lower?
+ * A1 - WorkManager
+ * */

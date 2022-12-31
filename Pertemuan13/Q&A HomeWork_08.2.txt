@@ -1,0 +1,7 @@
+/*
+* Answer to homework question
+*
+* Q1 - In which API level did inexact timing become the default for AlarmManager? (All set() methods use inexact timing, unless explicitly stated.)
+* A1 - API level 19
+*
+* */

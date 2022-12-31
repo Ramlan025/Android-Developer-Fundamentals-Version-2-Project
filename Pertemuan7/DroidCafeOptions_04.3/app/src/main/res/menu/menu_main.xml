@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="id.ac.poliban.mi.ramlan.droidcafeoptions_043.MainActivity">
+    <item
+        android:id="@+id/action_order"
+        android:orderInCategory="100"
+        android:title="@string/action_order"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_status"
+        android:orderInCategory="100"
+        android:title="@string/action_status"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_favorites"
+        android:orderInCategory="100"
+        android:title="@string/action_favorites"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_contact"
+        android:orderInCategory="100"
+        android:title="@string/action_contact"
+        app:showAsAction="never" />
+</menu>

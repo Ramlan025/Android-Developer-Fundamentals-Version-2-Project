@@ -1,0 +1,4 @@
+#Sat Nov 05 07:33:54 SGT 2022
+base.0=E\:\\FOLDER ANDROID STUDIO 5A\\Pertemuan3\\ActivitySceneTransitionBasic_01.4\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
