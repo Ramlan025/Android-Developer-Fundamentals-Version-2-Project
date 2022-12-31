@@ -3,7 +3,7 @@
 * Task 1: Create the RoomWordsSample app 
 * Task 2: Create the Word entity 
 * Task 3: Create the DAO 
-* Task 4: Use LiveData 
+* Task 4: Use LiveData
 * Task 5: Add a Room database 
 * Task 6: Create the Repository 
 * Task 7: Create the ViewModel 
