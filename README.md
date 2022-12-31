@@ -1,9 +1,9 @@
 # Practice for Android Developer Fundamentals Training
 This repository contains all the answers to the codelab for [Google Android Developer Fundamentals Practice Training Version 2](https://developer.android.com/courses/fundamentals-training/toc-v2)
-Course concepts can be found [here](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/).
+Course concepts can be found [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/).
 
-Please note that this is not an official repository. It does not contain a start-up project for practice but rather a complete solution to a given task and challenge.
-with the aim of Learning Achievement During Practice.
+Please note that this is not an official repository. This repository only contains assigned tasks and challenges.
+with the aim of achieving learning
 
 # Postscript
 * __Android Version:__ Varies from project to project
